@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senior software engineer with over 1-2 years of experience in blockchain and full-stack development. I'm a fast learner and constantly strive to expand my knowledge and skills. I'm passionate about creating innovative solutions and enjoy collaborating with my peers.
+I'm a senior software engineer with over 5+ years of experience in blockchain and full-stack development. I'm a fast learner and constantly strive to expand my knowledge and skills. I'm passionate about creating innovative solutions and enjoy collaborating with my peers.
 
 
 ## 🌐 Socials:
